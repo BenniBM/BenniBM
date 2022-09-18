@@ -3,8 +3,8 @@
 	<div>Student at the Hochschule für Medien in Stuttgart</div>
 	<br />
 	<a href="https://www.gnu.org/gnu/linux-and-gnu.en.html"><img src="https://img.shields.io/badge/OS-GNU/Linux-cdd6f4?style=flat&logo=gnu" /></a>
-	<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/DISTRO-Ubuntu-74c7ec?style=flat&logo=ubuntu" /></a>
-	<a href="https://awesomewm.org/"><img src="https://img.shields.io/badge/WM-Awesome-eba0ac?style=flat&logo=lua" /></a>
+	<a href="https://manjaro.org/"><img src="https://img.shields.io/badge/DISTRO-Manjaro-74c7ec?style=flat&logo=manjaro" /></a>
+	<a href="https://awesomewm.org/"><img src="https://img.shields.io/badge/DE-Xfce-eba0ac?style=flat&logo=c" /></a>
 	<a href="https://neovim.io"><img src="https://img.shields.io/badge/EDITOR-Neovim-a6e3a1?style=flat&logo=neovim" /></a>
 	<br />
 	<a href="https://github.com/bennibm"><img src="https://img.shields.io/github/stars/bennibm?color=cdd6f4&label=GITHUB&style=flat&logo=github" /></a>
